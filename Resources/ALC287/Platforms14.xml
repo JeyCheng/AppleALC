@@ -151,7 +151,7 @@
 										</dict>
 									</array>
 									<key>MuteInputAmp</key>
-									<true/>
+									<false/>
 									<key>PublishMute</key>
 									<true/>
 									<key>PublishVolume</key>
@@ -200,7 +200,7 @@
 										</dict>
 									</array>
 									<key>MuteInputAmp</key>
-									<true/>
+									<false/>
 									<key>PublishMute</key>
 									<true/>
 									<key>PublishVolume</key>
@@ -216,7 +216,7 @@
 				</array>
 			</array>
 			<key>PathMapID</key>
-			<integer>14</integer>
+			<integer>212</integer>
 		</dict>
 	</array>
 </dict>
