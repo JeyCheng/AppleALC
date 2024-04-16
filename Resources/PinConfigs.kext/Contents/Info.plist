@@ -4722,19 +4722,28 @@
 				</dict>
 				<dict>
 					<key>AFGLowPowerState</key>
-					<data>AwAAAA==</data>
+					<data>
+					AwAAAA==
+					</data>
 					<key>Codec</key>
-					<string>ALC287 Lenovo-Yoga14s-ACH 2020/2021 AMD by JeyCheng</string>
+					<string>ALC287 for Lenovo Yoga 14s 5800H by JeyCheng</string>
 					<key>CodecID</key>
 					<integer>283902599</integer>
 					<key>ConfigData</key>
-					<data>AScccAEnHQEBJx6mAScfkAE3HPABNx0AATceAAE3H0ABRxxAAUcdAQFHHhcBRx+QAUcMAgF3HPABdx0AAXceAAF3H0ABhxzwAYcdAAGHHgABhx9AAZcccAGXHRABlx6rAZcfAgGnHPABpx0AAaceAAGnH0ABtxzwAbcdAAG3HgABtx9AAdcc8AHXHQAB1x4AAdcfQAHnHPAB5x0AAeceAAHnH0ACFxwwAhcdEAIXHisCFx8CAhcMAg==</data>
+					<data>
+					AUccEAFHHQEBRx4XAUcfkAFHDAICFxwgAhcd
+					EAIXHiECFx8DAhcMAgGXHDABlx0QAZceoQGX
+					HwMBJxxAAScdAQEnHqYBJx+QAgUARQIEUIkC
+					B/8aAgQvzw==
+					</data>
 					<key>FuncGroup</key>
 					<integer>1</integer>
 					<key>LayoutID</key>
 					<integer>14</integer>
 					<key>WakeConfigData</key>
-					<data>AUcMAgIXDAI=</data>
+					<data>
+					AUcMAgIXDAI=
+					</data>
 					<key>WakeVerbReinit</key>
 					<true/>
 				</dict>
