@@ -34,6 +34,14 @@
 				<key>Path</key>
 				<string>layout13.xml.zlib</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>ALC287   Lenovo-Yoga14s-ACH 2020/2021 AMD by JeyCheng</string>
+				<key>Id</key>
+				<integer>14</integer>
+				<key>Path</key>
+				<string>layout14.xml.zlib</string>
+			</dict>
 		</array>
 		<key>Platforms</key>
 		<array>
@@ -58,6 +66,14 @@
 				<integer>13</integer>
 				<key>Path</key>
 				<string>Platforms13.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>ALC287   Lenovo-Yoga14s-ACH 2020/2021 AMD by JeyCheng</string>
+				<key>Id</key>
+				<integer>14</integer>
+				<key>Path</key>
+				<string>Platforms14.xml.zlib</string>
 			</dict>
 		</array>
 	</dict>
